@@ -1,6 +1,8 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [I/O与Netty原理精讲](https://mp.weixin.qq.com/s/K9Oyn0cbwqVCh1j3N5bd_w)  | IO |   ||
+| [15 张精美动图全面讲解 CORS](https://mp.weixin.qq.com/s/tei4tXhxthnZIX6mLUwSTA)  | 安全 |   ||
 | [线程池运用不当的一次线上事故](https://mp.weixin.qq.com/s/Qpdxfal-m0KOUxLeMJlPxw)  | 多线程 | 父子任务使用同一线程池造成死锁  ||
 | [新一代垃圾回收器ZGC的探索与实践](https://mp.weixin.qq.com/s/ag5u2EPObx7bZr7hkcrOTg)  | JVM | 讨论垃圾回收器ZGC  ||
 | [携程度假数据治理需求设计实践](https://mp.weixin.qq.com/s/Xhuy2iRe6N_3yL4-jlRocA)  | 架构 | 数据库业务设计 ||
