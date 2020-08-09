@@ -1,6 +1,8 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [有赞透明多级缓存解决方案（TMC）](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA%3D%3D&mid=2455759090&idx=1&sn=f9f0b49d7c1916672f9d4f63dab0c2b6&chksm=8c686ed7bb1fe7c1446838941ff1bdb5d0bd8738aa43c22d456cf9736e3068eb13a29f908403&scene=21#wechat_redirect)  | 缓存 | ||
+| [再谈缓存的穿透、数据一致性和最终一致性问题](https://mp.weixin.qq.com/s?__biz=MzI4MTY5NTk4Ng==&mid=2247489165&amp;idx=1&amp;sn=1d134c75d2fbcc4967fd0c10eb1cf8a9&source=41#wechat_redirect)  | 缓存 |  解决缓存一致性3种方案||
 | [如何快速定位 Redis 热 key](https://mp.weixin.qq.com/s/rZs-oWBGGYtNKLMpI0-tXw)  | 缓存 |  饿了么hotkey解决方案 ||
 | [深入理解select、poll和epoll及区别](https://blog.csdn.net/wteruiycbqqvwt/article/details/90299610)  | IO |  流程图及代码理解多路IO复用 ||
 | [搞懂Select，Poll，Epoll的区别](https://www.itqiankun.com/article/select-poll-epoll)  | IO | 多路IO复用基础知识  ||
