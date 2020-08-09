@@ -1,6 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [如何快速定位 Redis 热 key](https://mp.weixin.qq.com/s/rZs-oWBGGYtNKLMpI0-tXw)  | 缓存 |  饿了么hotkey解决方案 ||
 | [深入理解select、poll和epoll及区别](https://blog.csdn.net/wteruiycbqqvwt/article/details/90299610)  | IO |  流程图及代码理解多路IO复用 ||
 | [搞懂Select，Poll，Epoll的区别](https://www.itqiankun.com/article/select-poll-epoll)  | IO | 多路IO复用基础知识  ||
 | [I/O与Netty原理精讲](https://mp.weixin.qq.com/s/K9Oyn0cbwqVCh1j3N5bd_w)  | IO |   ||
