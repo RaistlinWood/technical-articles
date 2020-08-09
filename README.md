@@ -26,6 +26,6 @@
 |[贝壳多场景直播平台的建设与实践](https://mp.weixin.qq.com/s/Fspxx8al6SK5qQkB3etBgg)|架构|||
 |[二维码预生成：码上营销的并发之痛](https://mp.weixin.qq.com/s/T38OglzdiRjjtqWUKx608w)|分布式|二维码生成问题实例||
 |[Redis——由分布式锁造成的重大事故](https://juejin.im/post/6854573212831842311)|分布式|锁造成线上安全事故||
-|[最简单的6种防止数据重复提交的方法](https://mp.weixin.qq.com/s/p1MRZpnxohnX2jIpZDczmQ)|CODE|||
+|[最简单的6种防止数据重复提交的方法](https://mp.weixin.qq.com/s/p1MRZpnxohnX2jIpZDczmQ)|算法|LRU算法实际使用||
 |[还在业务中用if else，策略模式了解一下](https://juejin.im/post/6844903874596175880)|设计模式||||
 
