@@ -1,6 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [携程机票订单缓存系统实践](https://mp.weixin.qq.com/s/0ls1QYKAIiZdXhKPQ62OrQ)  | 缓存| 使用redis改善数据库压力并更加实际情况定制 ||
 | [基于RocketMQ的分布式事务解决方案](https://www.jianshu.com/p/286cac4625b6)  | MQ |  ||
 | [限流算法原理剖析](https://mp.weixin.qq.com/s/MA1CLXdknLvnPV_s3ZQUSg)  | 算法 |  ||
 | [有赞透明多级缓存解决方案（TMC）](https://mp.weixin.qq.com/s?__biz=MzAxOTY5MDMxNA%3D%3D&mid=2455759090&idx=1&sn=f9f0b49d7c1916672f9d4f63dab0c2b6&chksm=8c686ed7bb1fe7c1446838941ff1bdb5d0bd8738aa43c22d456cf9736e3068eb13a29f908403&scene=21#wechat_redirect)  | 缓存 | ||
