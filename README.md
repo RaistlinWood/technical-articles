@@ -1,8 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
-
-| [通用性错误排查](https://www.iteye.com/blog/javatar-804187)  | CODE| ||
+| [通用性错误排查](https://www.iteye.com/blog/javatar-804187) | CODE| ||
 | [线上YGC问题排查](https://club.perfma.com/article/1661497)  | JVM| ||
 | [携程机票订单缓存系统实践](https://mp.weixin.qq.com/s/0ls1QYKAIiZdXhKPQ62OrQ)  | 缓存| 使用redis改善数据库压力并更加实际情况定制 ||
 | [基于RocketMQ的分布式事务解决方案](https://www.jianshu.com/p/286cac4625b6)  | MQ |  ||
