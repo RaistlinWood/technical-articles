@@ -1,6 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [虚拟机错误排查](https://snailclimb.gitee.io/javaguide/#/./docs/java/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9A%E4%BD%8D%E5%B8%B8%E8%A7%81Java%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98) | JVM| ||
 | [通用性错误排查](https://www.iteye.com/blog/javatar-804187) | CODE| ||
 | [线上YGC问题排查](https://club.perfma.com/article/1661497)  | JVM| ||
 | [携程机票订单缓存系统实践](https://mp.weixin.qq.com/s/0ls1QYKAIiZdXhKPQ62OrQ)  | 缓存| 使用redis改善数据库压力并更加实际情况定制 ||
