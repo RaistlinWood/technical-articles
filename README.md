@@ -1,6 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+| [算法书籍资源](https://snailclimb.gitee.io/javaguide/#/docs/dataStructures-algorithms/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90) | 算法| ||
 | [虚拟机错误排查](https://snailclimb.gitee.io/javaguide/#/./docs/java/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E5%AE%9A%E4%BD%8D%E5%B8%B8%E8%A7%81Java%E6%80%A7%E8%83%BD%E9%97%AE%E9%A2%98) | JVM| ||
 | [通用性错误排查](https://www.iteye.com/blog/javatar-804187) | CODE| ||
 | [线上YGC问题排查](https://club.perfma.com/article/1661497)  | JVM| ||
