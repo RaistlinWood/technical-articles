@@ -1,6 +1,7 @@
 
 |标题|分类|内容|备注|
 |----|----|----|----|
+|[DDD系列](https://mp.weixin.qq.com/s/1rdnkROdcNw5ro4ct99SqQ)|架构|||
 | [mysql批量插入数据](https://www.imooc.com/article/291781) | MySQL| ||
 | [kafka 数据可靠性深度解读](https://www.jianshu.com/p/b37beff657f3) | MQ| ||
 | [如何使用阿里云服务器](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485738&idx=1&sn=f97e91a50e444944076c30b0717b303a&chksm=cea246e1f9d5cff73faf6a778b147ea85162d1f3ed55ca90473c6ebae1e2c4d13e89282aeb24&token=406194678&lang=zh_CN#rd) | 服务器| ||
